@@ -42,7 +42,8 @@ curl -X GET \
 
 
 ### Tables
-Stores Consumer API Keys in the `Consumers` table
+Stores Consumer API Keys in the `Consumers` table.
+
 Stores Descriptions received from OpenWeather in the `WeatherItem` table
 
 
